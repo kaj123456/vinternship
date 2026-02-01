@@ -18,7 +18,7 @@ order: 2
 8. [MERN Case Studies](#8-mern-case-studies)
 9. [Ejection Policy](#9-ejection-policy)
 10. [Self-Healing Endorsement Network - Viva/Peer Evaluation System(PES)](#10-self-healing-endorsement-network---vivapeer-evaluation-systempes)
-11. [Health Points](#11-health-points)
+11. [Health Points and Breakout Sessions](#11-health-points-and-breakout-sessions)
 
 ---
 
@@ -103,7 +103,9 @@ Yes, your project mentors can schedule a meeting based on the doubts and issues 
 ## 4. Support and Resolution Protocol
 
 **4.1 Where do I raise my concern initially?**  
-Initially, try to get your query resolved from the FAQ. Check the Broadcast Telegram channel, else from your fellow interns in the Breakout sessions. If the query is still not resolved, you can email your query to the email ID below.
+Initially, try to get your query resolved from the FAQ and ViSakha. Check the Broadcast Telegram channel, else from your fellow interns in the Breakout sessions. If the query is still not resolved, you can email your query to the email ID below.
+
+ViSakha: https://sakha.vicharanashala.ai/
 
 Email **vinternship@vicharanashala.zohodesk.in**.  
 Responses are provided **within 2 hours** between **9:00 AM and 9:00 PM**.
@@ -122,6 +124,12 @@ After 48 hours of your first ticket (and after raising a follow-up), you can esc
   
 **4.4 Is this process mandatory for all issues?**  
 Yes, to maintain consistency and ensure efficient support, we request all interns to follow this three-step resolution path.
+
+**4.5 Why is it important to follow the deadlines mentioned in tasks and milestones?**
+Each task and milestone is designed to help you progress steadily through the internship. Adhering to the specified deadlines ensures smooth evaluation, proper tracking of your progress, and continued eligibility in the program.
+
+**4.6 What happens if I miss a deadline?**
+Failure to meet a task or milestone deadline may impact your Health Points and could lead to removal from the cohort, as per internship policy. Extensions are generally not provided unless explicitly communicated.
 
 ---
 
@@ -521,7 +529,7 @@ No new Jedi will be added through Viva going forward. -->
 
 ---
 
-## 11. Health Points 
+## 11. Health Points and Breakout Sessions
 
 **11.1 How do I access my Individual Health Points (HP) page?**   
 You can view your Individual Health Points by following these steps:   
@@ -542,5 +550,14 @@ All activity deadlines are available directly on the dashboard:
   - Choose Individual HP  
 
 👉 The respective deadlines are shown under each activity inside the dashboard and cohort specific pages.
+
+**11.3 When are Zoom breakout rooms opened and who can join?**
+Breakout rooms are usually opened after standups (around 9:45 PM) and are generally accessible to all three cohorts, unless communicated otherwise.
+
+**11.4 How will I know when the breakout rooms are active? Are they compulsory?**
+Announcements will be made in the Telegram channel when breakout rooms go live. Participation is completely optional.
+
+**11.5 What is the purpose of the breakout rooms?**
+They are intended for informal discussions, doubt clarification, collaboration, and peer support among participants.
 
 ---
